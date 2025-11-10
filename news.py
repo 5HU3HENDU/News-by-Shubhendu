@@ -6,8 +6,31 @@ st.title("RSS Feed Reader")
 
 # Input for multiple RSS feed URLs
 feed_urls = """
+https://alphaideas.in/feed/
+https://entrackr.com/rss
+https://factordaily.com/feed/
+https://feeds.bbci.co.uk/news/world/asia/rss.xml
+https://finshots.in/rss/
+https://gfmag.com/feed/
+https://prod-qt-images.s3.amazonaws.com/production/bloombergquint/feed.xml
+https://qz.com/rss
+https://restofworld.org/feed/latest/
 https://techcrunch.com/feed/
-https://feeds.bbci.co.uk/news/rss.xml
+https://technode.com/feed/
+https://the420.in/feed/
+https://the-ken.com/feed/
+https://tldr.tech/api/rss/tech
+https://www.densediscovery.com/feed/
+https://www.exponentialview.co/feed
+https://www.forbesindia.com/commonfeeds/v1/frb/rss/news.xml
+https://www.hindustantimes.com/feeds/rss/business/rssfeed.xml
+https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml
+https://www.hindustantimes.com/feeds/rss/technology/rssfeed.xml
+https://www.techinasia.com/feed
+https://www.technologyreview.com/feed/
+https://www.theinformation.com/feed/
+https://www.wired.com/feed/
+
 """
 
 # Single date picker for day selection
